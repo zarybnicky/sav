@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: ./src
+      component: liquid-demo:lib
+    - path: ./app
+      component: liquid-demo:exe:liquid-demo
