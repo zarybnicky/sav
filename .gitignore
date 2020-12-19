@@ -2,3 +2,5 @@
 .liquid/
 dist/
 dist-newstyle/
+auto/
+_minted-doc/
